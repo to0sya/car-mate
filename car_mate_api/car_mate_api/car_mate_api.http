@@ -1,0 +1,6 @@
+@car_mate_api_HostAddress = http://localhost:5242
+
+GET {{car_mate_api_HostAddress}}/user/login?login=admin&password=333
+Accept: application/json
+
+###
